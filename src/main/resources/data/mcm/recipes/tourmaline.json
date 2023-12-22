@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "mcm:tourmalineblock"
+    }
+  ],
+  "result": {
+    "item": "mcm:tourmaline",
+    "count": 9
+  }
+}

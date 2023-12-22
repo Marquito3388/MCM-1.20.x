@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 400,
+  "experience": 0.9,
+  "ingredient": {
+    "item": "mcm:silver_chunk"
+  },
+  "result": "mcm:silver"
+}

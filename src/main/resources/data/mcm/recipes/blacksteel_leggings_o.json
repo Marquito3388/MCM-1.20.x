@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "MCM",
+    "M M",
+    "M M"
+  ],
+  "key": {
+    "C": {
+      "item": "mcm:onyx"
+    },    
+     "M": {
+      "item": "mcm:blacksteel"
+    }
+    
+  },
+  "result": {
+    "item": "mcm:blacksteel_leggings_o",
+    "count": 1
+  }
+}

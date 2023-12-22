@@ -1,0 +1,4 @@
+// 1.20.1	2023-12-10T21:38:44.0369235	Tags for minecraft:block mod id mcm
+78caeecef7f633ea39af673449d84d677b606ded data/minecraft/tags/blocks/mineable/pickaxe.json
+5edf7a8448d2d459611ad330dbd5ee478d1572d2 data/minecraft/tags/blocks/needs_iron_tool.json
+dafe4fa26a9918ac3af358ecad4621f7b5807ae8 data/minecraft/tags/blocks/needs_stone_tool.json

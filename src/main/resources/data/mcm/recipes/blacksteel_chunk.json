@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " R ",
+    "R R",
+    " R "
+  ],
+  "key": {
+    "R": {
+      "item": "mcm:raw_blacksteel"
+    }
+    
+  },
+  "result": {
+    "item": "mcm:blacksteel_chunk",
+    "count": 1
+  }
+}

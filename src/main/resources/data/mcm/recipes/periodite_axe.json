@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "OO ",
+    "OS ",
+    " S "
+  ],
+  "key": {
+    "S": {
+      "item": "minecraft:stick"
+    },    
+     "O": {
+      "item": "mcm:periodite"
+    }
+    
+  },
+  "result": {
+    "item": "mcm:periodite_axe",
+    "count": 1
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "OO ",
+    "OS ",
+    " S "
+  ],
+  "key": {
+    "S": {
+      "item": "minecraft:stick"
+    },    
+     "O": {
+      "item": "mcm:tourmaline"
+    }
+    
+  },
+  "result": {
+    "item": "mcm:tourmaline_axe",
+    "count": 1
+  }
+}

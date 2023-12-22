@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "mcm:perioditeblock"
+    }
+  ],
+  "result": {
+    "item": "mcm:periodite",
+    "count": 9
+  }
+}

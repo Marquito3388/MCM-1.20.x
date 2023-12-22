@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "   ",
+    " R ",
+    "   "
+  ],
+  "key": {
+    "R": {
+      "item": "mcm:silverblock"
+    }
+    
+  },
+  "result": {
+    "item": "mcm:silver",
+    "count": 9
+  }
+}

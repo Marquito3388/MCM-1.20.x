@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "   ",
+    " BR",
+    "   "
+  ],
+  "key": {
+    "B": {
+      "item": "minecraft:bone_meal"
+    },
+    "R": {
+      "item": "minecraft:brick"
+    }
+  },
+  "result": {
+    "item": "mcm:whitebrick",
+    "count": 1
+  }
+}

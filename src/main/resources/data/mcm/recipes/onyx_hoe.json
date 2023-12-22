@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "OO ",
+    " S ",
+    " S "
+  ],
+  "key": {
+    "S": {
+      "item": "minecraft:stick"
+    },    
+     "O": {
+      "item": "mcm:onyx"
+    }
+    
+  },
+  "result": {
+    "item": "mcm:onyx_hoe",
+    "count": 1
+  }
+}

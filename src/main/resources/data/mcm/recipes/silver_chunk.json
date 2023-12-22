@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "   ",
+    "R R",
+    " R "
+  ],
+  "key": {
+    "R": {
+      "item": "mcm:raw_silver"
+    }
+    
+  },
+  "result": {
+    "item": "mcm:silver_chunk",
+    "count": 1
+  }
+}

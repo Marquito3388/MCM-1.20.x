@@ -1,0 +1,150 @@
+{
+
+  "item.mcm.azinite": "Azinite",
+  "item.mcm.drakinite": "Drakinite",
+  "item.mcm.eclite": "Eclite",
+  "item.mcm.ichorite": "Ichorite",
+  "item.mcm.illuminite": "Illuminite",
+  "item.mcm.voidite": "Voidite",
+  "item.mcm.volcanite": "Volcanite",
+  "item.mcm.yonite": "Yonite",
+
+
+  "item.mcm.silver": "Silver",
+  "item.mcm.raw_silver": "Raw Silver",
+  "item.mcm.silver_chunk": "Silver Chunk",
+
+
+  "item.mcm.steel": "Steel Ingot",
+  "item.mcm.raw_steel": "Raw Steel",
+  "item.mcm.steel_chunk": "Steel Chunk",
+
+  "item.mcm.blacksteel": "Black Steel Ingot",
+  "item.mcm.raw_blacksteel": "Raw Black Steel",
+  "item.mcm.blacksteel_chunk": "Black Steel Chunk",
+
+
+
+
+  "item.mcm.periodite": "Periodite",
+  "item.mcm.onyx": "Onyx",
+  "item.mcm.tourmaline": "Tourmaline",
+
+  "item.mcm.whitebrick": "White Brick",
+
+  "item.mcm.silver_pickaxe": "Silver Pickaxe",
+  "item.mcm.steel_pickaxe": "Steel Pickaxe",
+  "item.mcm.blacksteel_pickaxe": "Black Steel Pickaxe",
+  "item.mcm.onyx_pickaxe": "Onyx Pickaxe",
+  "item.mcm.periodite_pickaxe": "Periodite Pickaxe",
+  "item.mcm.tourmaline_pickaxe": "Tourmaline Pickaxe",
+
+
+  "item.mcm.silver_axe": "Silver Axe",
+  "item.mcm.steel_axe": "Steel Axe",
+  "item.mcm.blacksteel_axe": "Black Steel Axe",
+  "item.mcm.onyx_axe": "Onyx Axe",
+  "item.mcm.periodite_axe": "Periodite Axe",
+  "item.mcm.tourmaline_axe": "Tourmaline Axe",
+
+
+  "item.mcm.silver_hoe": "Silver Hoe",
+  "item.mcm.steel_hoe": "Steel Hoe",
+  "item.mcm.blacksteel_hoe": "Black Steel Hoe",
+  "item.mcm.onyx_hoe": "Onyx Hoe",
+  "item.mcm.periodite_hoe": "Periodite Hoe",
+  "item.mcm.tourmaline_hoe": "Tourmaline Hoe",
+
+
+  "item.mcm.silver_sword": "Silver Sword",
+  "item.mcm.steel_sword": "Steel Sword",
+  "item.mcm.blacksteel_sword": "Black Steel Sword",
+  "item.mcm.onyx_sword": "Onyx Sword",
+  "item.mcm.periodite_sword": "Periodite Sword",
+  "item.mcm.tourmaline_sword": "Tourmaline Sword",
+
+
+  "item.mcm.silver_shovel": "Silver Shovel",
+  "item.mcm.steel_shovel": "Steel Shovel",
+  "item.mcm.blacksteel_shovel": "Black Steel Shovel",
+  "item.mcm.onyx_shovel": "Onyx Shovel",
+  "item.mcm.periodite_shovel": "Periodite Shovel",
+  "item.mcm.tourmaline_shovel": "Tourmaline Shovel",
+
+  "block.mcm.whitebricks": "White Bricks",
+  "block.mcm.whitebricks2": "White Bricks Type 2",
+  "block.mcm.whitebricks3": "White Bricks Type 3",
+
+  "block.mcm.blacksteel_oreds": "Black Steel Ore",
+  "block.mcm.steel_oreds": "Steel Ore",
+  "block.mcm.onyx_oreds": "Onyx Ore",
+  "block.mcm.periodite_oreds": "Periodite Ore",
+  "block.mcm.silver_oreds": "Silver Ore",
+  "block.mcm.tourmaline_oreds": "Tourmaline Ore",
+
+  "block.mcm.blacksteelblock": "Black Steel Block",
+  "block.mcm.steelblock": "Steel Block",
+  "block.mcm.silverblock": "Silver Block",
+
+  "block.mcm.onyxblock": "Onyx Block",
+  "block.mcm.perioditeblock": "Periodite Block",
+  "block.mcm.tourmalineblock": "Tourmaline Block",
+
+
+
+
+  "item.mcm.silver_helmet": "Silver Helmet",
+  "item.mcm.silver_chestplate": "Silver Chestplate",
+  "item.mcm.silver_leggings": "Silver Leggings",
+  "item.mcm.silver_boots": "Silver Boots",
+
+
+  "item.mcm.steel_helmet": "Steel Helmet",
+  "item.mcm.steel_chestplate": "Steel Chestplate",
+  "item.mcm.steel_leggings": "Steel Leggings",
+  "item.mcm.steel_boots": "Steel Boots",
+
+
+  "item.mcm.blacksteel_helmet": "Black Steel Helmet",
+  "item.mcm.blacksteel_chestplate": "Black Steel Chestplate",
+  "item.mcm.blacksteel_leggings": "Black Steel Leggings",
+  "item.mcm.blacksteel_boots": "Black Steel Boots",
+
+
+  "item.mcm.blacksteel_helmet_o": "Black Steel Onyx Helmet",
+  "item.mcm.blacksteel_chestplate_o": "Black Steel Onyx Chestplate",
+  "item.mcm.blacksteel_leggings_o": "Black Steel Onyx Leggings",
+  "item.mcm.blacksteel_boots_o": "Black Steel Onyx Boots",
+
+
+  "item.mcm.blacksteel_helmet_p": "Black Steel Periodite Helmet",
+  "item.mcm.blacksteel_chestplate_p": "Black Steel Periodite Chestplate",
+  "item.mcm.blacksteel_leggings_p": "Black Steel Periodite Leggings",
+  "item.mcm.blacksteel_boots_p": "Black Steel Periodite Boots",
+
+
+  "item.mcm.blacksteel_helmet_t": "Black Steel Tourmaline Helmet",
+  "item.mcm.blacksteel_chestplate_t": "Black Steel Tourmaline Chestplate",
+  "item.mcm.blacksteel_leggings_t": "Black Steel Tourmaline Leggings",
+  "item.mcm.blacksteel_boots_t": "Black Steel Tourmaline Boots",
+
+  "creativetab.meaterials_tab": "MCM Materials",
+  "creativetab.weapons_tab": "MCM Weapons",
+  "creativetab.tools_tab": "MCM Tools",
+  "creativetab.rc_tab": "MCM Raw and Chunks",
+  "creativetab.armor_tab": "MCM Armor",
+  "creativetab.blocks_tab": "MCM Blocks"
+
+
+
+
+
+
+
+
+
+
+
+
+
+}

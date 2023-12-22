@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " O ",
+    " O ",
+    " S "
+  ],
+  "key": {
+    "S": {
+      "item": "minecraft:stick"
+    },    
+     "O": {
+      "item": "mcm:blacksteel"
+    }
+    
+  },
+  "result": {
+    "item": "mcm:blacksteel_sword",
+    "count": 1
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "   ",
+    " BB",
+    " B "
+  ],
+  "key": {
+    "B": {
+      "item": "mcm:whitebrick"
+    }
+  },
+  "result": {
+    "item": "mcm:whitebricks2",
+    "count": 4
+  }
+}

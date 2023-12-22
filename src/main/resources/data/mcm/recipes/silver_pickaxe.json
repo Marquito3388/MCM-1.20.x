@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "OOO",
+    " S ",
+    " S "
+  ],
+  "key": {
+    "S": {
+      "item": "minecraft:stick"
+    },    
+     "O": {
+      "item": "mcm:silver"
+    }
+    
+  },
+  "result": {
+    "item": "mcm:silver_pickaxe",
+    "count": 1
+  }
+}

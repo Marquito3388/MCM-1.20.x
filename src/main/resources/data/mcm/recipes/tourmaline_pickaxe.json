@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "OOO",
+    " S ",
+    " S "
+  ],
+  "key": {
+    "S": {
+      "item": "minecraft:stick"
+    },    
+     "O": {
+      "item": "mcm:tourmaline"
+    }
+    
+  },
+  "result": {
+    "item": "mcm:tourmaline_pickaxe",
+    "count": 1
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "   ",
+    " R ",
+    "   "
+  ],
+  "key": {
+    "R": {
+      "item": "mcm:blacksteelblock"
+    }
+    
+  },
+  "result": {
+    "item": "mcm:blacksteel",
+    "count": 9
+  }
+}

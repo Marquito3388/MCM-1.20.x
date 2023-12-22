@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " O ",
+    " S ",
+    " S "
+  ],
+  "key": {
+    "S": {
+      "item": "minecraft:stick"
+    },    
+     "O": {
+      "item": "mcm:periodite"
+    }
+    
+  },
+  "result": {
+    "item": "mcm:periodite_shovel",
+    "count": 1
+  }
+}
